@@ -1,7 +1,7 @@
 name: flutter_proxy_checker
 description: A new flutter plugin project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/mingyouzhu/flutter_proxy_checker
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
